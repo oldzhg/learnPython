@@ -1,1 +1,1 @@
-print(range(1))
+#测试git中文情况
