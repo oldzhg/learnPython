@@ -9,5 +9,3 @@ def move(n, a, b, c):
 
 n = input("请输入要移动的圆盘数量:")
 move(int(n), 'A', 'B', 'C')
-        
-    

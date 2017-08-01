@@ -1,0 +1,8 @@
+#windows:
+Thumbs.db
+enthumbs.db
+Desktop.ini
+
+#Python
+*.py[cod]
+.idea
